@@ -4,3 +4,6 @@
 #pwd {
     width: 50%;
 }
+a:hover {
+    color: violet;
+}

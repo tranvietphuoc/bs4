@@ -13,5 +13,6 @@
   },
   "devDependencies": {
     "webpack": "^4.41.6"
-  }
+  },
+  "repository": "https://github.com/tranvietphuoc/bs4.git"
 }
